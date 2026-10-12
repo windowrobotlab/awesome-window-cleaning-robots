@@ -12,7 +12,7 @@ A curated list of window cleaning robot specifications, suction safety standards
 - [Smart Home & Local Control (Home Assistant / Tuya)](#smart-home--local-control)
 - [Hardware Teardown & Benchmark Reports](#hardware-teardown--benchmark-reports)
 - [Contributing](#contributing)
-
+* 📑 **Read Full Lab Report**: [2026 Safety & Suction Benchmark Report](./safety-benchmark-report.md)
 ---
 
 ## 🛡️ Suction Safety & Glass Thickness Standards
